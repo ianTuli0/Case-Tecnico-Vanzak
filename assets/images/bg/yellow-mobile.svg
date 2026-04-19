@@ -1,0 +1,76 @@
+<svg width="393" height="945" viewBox="0 0 393 945" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_3554)">
+<rect width="393" height="945" fill="url(#paint0_linear_1_3554)"/>
+<g clip-path="url(#clip1_1_3554)">
+<g clip-path="url(#clip2_1_3554)">
+<mask id="mask0_1_3554" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="86" y="104" width="493" height="339">
+<path d="M86.9985 104L86.9985 443L578.203 443L578.203 104L86.9985 104Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_3554)">
+<mask id="mask1_1_3554" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="36" y="105" width="543" height="557">
+<path d="M307.506 661.869C158.004 661.869 36.8086 540.67 36.8086 391.162L36.8086 383.486C36.8086 229.739 161.441 105.102 315.182 105.102L578.203 105.102L578.203 391.162C578.203 540.67 457.008 661.869 307.506 661.869Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_1_3554)">
+<path d="M392.432 -154.555L392.432 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M331.597 -154.555L331.597 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M270.762 -154.555L270.762 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M209.925 -154.555L209.925 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M149.09 -154.555L149.09 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M88.2549 -154.555L88.2549 661.868" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M837.43 158.269L70.604 158.27" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M817.905 325.01L51.0781 325.01" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M804.049 273.371L37.2227 273.371" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M817.905 385.095L51.0781 385.095" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M837.43 218.356L70.604 218.356" stroke="#FECB03" stroke-width="0.245251"/>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip3_1_3554)">
+<g clip-path="url(#clip4_1_3554)">
+<mask id="mask2_1_3554" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-170" y="-368" width="339" height="492">
+<path d="M169 123.205L-170 123.205L-170 -367.999H169L169 123.205Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_1_3554)">
+<mask id="mask3_1_3554" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-389" y="-368" width="557" height="542">
+<path d="M-388.869 -97.302C-388.869 52.1998 -267.67 173.395 -118.162 173.395H-110.486C43.2609 173.395 167.898 48.7629 167.898 -104.979V-367.999H-118.162C-267.67 -367.999 -388.869 -246.804 -388.869 -97.302Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_1_3554)">
+<path d="M427.555 0.279297L-388.869 0.279297" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M427.555 61.1142L-388.869 61.1143" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M427.555 121.949L-388.869 121.949" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M114.73 -627.226L114.73 139.6" stroke="#FECB03" stroke-width="0.245251"/>
+<path d="M54.644 -627.226L54.644 139.6" stroke="#FECB03" stroke-width="0.245251"/>
+</g>
+</g>
+</g>
+</g>
+<path d="M0 325H393V945C393 945 305.542 945 194.147 945C82.753 945 0 945 0 945V325Z" fill="url(#paint1_linear_1_3554)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_3554" x1="166.427" y1="-184.5" x2="166.427" y2="554.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFDE5D"/>
+<stop offset="0.382081" stop-color="#FFEC9F"/>
+<stop offset="0.743021" stop-color="#FFE16A"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_3554" x1="229" y1="476" x2="75.5" y2="610.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE682"/>
+<stop offset="1" stop-color="#FFDE5D"/>
+</linearGradient>
+<clipPath id="clip0_1_3554">
+<rect width="393" height="945" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1_3554">
+<rect width="339" height="491.204" fill="white" transform="translate(87 443) rotate(-90)"/>
+</clipPath>
+<clipPath id="clip2_1_3554">
+<rect width="339" height="491.204" fill="white" transform="translate(86.9995 443) rotate(-90)"/>
+</clipPath>
+<clipPath id="clip3_1_3554">
+<rect width="339" height="491.204" fill="white" transform="matrix(1 0 0 -1 -170 123.204)"/>
+</clipPath>
+<clipPath id="clip4_1_3554">
+<rect width="339" height="491.204" fill="white" transform="matrix(1 0 0 -1 -170 123.204)"/>
+</clipPath>
+</defs>
+</svg>

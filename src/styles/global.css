@@ -1,0 +1,62 @@
+@import "./pages/home.css";
+
+
+#background-layer,
+#background-layer-next {
+  position: fixed;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border-top: 2px solid black;
+}
+
+#background-layer {
+  z-index: -1;
+  transition: opacity 0.6s ease;
+}
+
+#background-layer-next {
+  z-index: -2;
+}
+
+
+#white-floor {
+  position: fixed;
+  bottom: -250px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 130%;
+  height: 480px;
+  background-color: white;
+  border-radius: 50%;
+  box-shadow: 0 -2px 0 0 black;
+  z-index: 0;
+}
+@media (max-width: 768px) {
+
+  #background-layer,
+  #background-layer-next {
+    border-top: none;
+  }
+
+  #app {
+    position: relative;
+    overflow: hidden; 
+  }
+
+  #white-floor {
+   
+    bottom: -300px;   
+    left: 50%;
+    transform: translateX(-50%);
+    width: 160%;
+    height: 360px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 -2px 0 0 black;
+    z-index: 10;
+    pointer-events: none;
+  }
+}
