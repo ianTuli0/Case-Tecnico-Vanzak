@@ -23,3 +23,5 @@ A seção deve reproduzir fielmente o design e as interações definidas no Figm
 **IAN RODNIR TULIO**
 
 ## LINK VERCEL
+
+case-tecnico-vanzak-r5wkwj910-iantuli0s-projects.vercel.app
