@@ -24,7 +24,6 @@ export function HomePage() {
       </div>
 
       <img id="next-btn" class="btn btn-next" src="../../assets/images/icons/right.svg" alt="Próximo" />
-
     </section>
 
     <section class="mobile-bottom">
